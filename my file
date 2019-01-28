@@ -1,3 +1,4 @@
 var = "helloworld"
-
-This is my first file and i need to nail it.  
+var myName = "Adedamola Disu"
+print = myName
+#This is my first file and i need to nail it.
